@@ -7,7 +7,7 @@ Large scale LiDAR-IMU dataset
 
 - Pandar XT32, +-0.5cm
 - SBG INS : 100Hz IMU + GNSS + EKF filter
-- 3DM-GQ7 INS: 700Hz IMU + dual GNSS-RTK + 30Hz Filter
+- 3DM-GQ7 INS: 700Hz IMU + dual GNSS-RTK + 30Hz Filter, >= 1.4cm
 - Mono Flir RGB camera (optional), it's hard to collect data with RTK-GNSS and RGB camera at the same time due to USB3.0.
 - Ground Truth  RGB Point Cloud Map (indoor -> outdoor), collected by Leica BLK360 and RTC360.
 
